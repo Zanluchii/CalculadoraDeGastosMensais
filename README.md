@@ -1,12 +1,10 @@
 # Aplicativo Despesas Diárias
 
 ## Visão Geral
-O Aplicativo Despesas Diárias é um aplicativo web simples que permite aos usuários registrar suas despesas diárias e visualizar o valor total acumulado. Ele oferece uma interface fácil de usar para acompanhar gastos e gerenciar finanças.
-
-## Primeiros Passos
+A calculadora de Gastos Mensais é um web simples que permite aos usuários registrar suas despesas diárias e visualizar o valor total acumulado. Ele oferece uma interface fácil de usar para acompanhar gastos e gerenciar finanças.
 
 ### Pré-requisitos
-- Um navegador web moderno (Chrome, Firefox, etc.)
+- Um navegador web moderno
 - Conhecimento básico de HTML, CSS e JavaScript
 
 ### Uso
