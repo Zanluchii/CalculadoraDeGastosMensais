@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-    max-width: 600px;
+    max-width: 300px;
     margin: auto;
 }
 
@@ -16,14 +16,14 @@ input, select, button {
 }
 
 table {
-    width: 100%;
+    width: 80%;
     border-collapse: collapse;
     margin-top: 20px;
 }
 
 th, td {
-    border: 1px solid #5c5555;
-    padding: 10px;
+    border: 2px solid #020202;
+    padding: 7px;
     text-align: center;
 }
 
